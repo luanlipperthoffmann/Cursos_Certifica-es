@@ -1,0 +1,44 @@
+=> OPERADORES ARITIMÉTICOS EM PYTHON:
+    + Adição
+    - Subtração
+    * Multiplicação
+    / Dividão
+    ** Potência
+    // Divisão Inteira
+    % Resto da Divisão
+
+=> ORDEM DE  PRECEDÊNCIA NAS OPERAÇÕES:
+    1º ()
+    2º **
+    3º * / // %
+    4º + -
+
+=> PARA DEFINIR 2CASA APÓS A VIRGULA USA-SE DENTRO DO {} DO PRINTT:
+    {variavel:.2f}
+
+=>PARA FAZER COMENTARIOS NO CÓDIGO DE 1 LINHA:
+    # dcsdsdfsfefefesfsf
+
+=>PARA FAZER COMENTARIOS DE MAIS DE UMA LINHA:
+    '''ceiiveririgrier
+    ererrrgergergergr
+    verervrevreervoreor'''
+
+
+========================= MODULOS: =====================================
+
+=> BIBLIOTECA DE MATEMÁTICA:
+    import math => importa toda a biblioteca de matemática, usa-se na primeira linha;
+        ex. import math
+            numero = int(input("Dígite um número: ))
+            raiz = math.sqrt(numero)    => aqui é usado a operação desejada, neste casa é a .sqrt para raiz quadrada
+            print (f"A raíz de {numero} é igual a {raiz})
+
+    from math import sqrt, floor => importa somente o método da biblioteca desejada, neste caso é a operação de raiz quadrada, floor 
+        ex. from math import sqrt, floor
+            numero = int(input("Dígite um número:))
+            raiz = sqrt(numero)
+            print(f"A raiz de {numero} é igual a {raiz:.2f})
+              
+=> Para outra bibliotecas consultar o site: https://www.w3schools.com/python/python_modules.asp
+
