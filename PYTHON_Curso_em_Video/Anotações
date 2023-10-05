@@ -39,6 +39,9 @@
             numero = int(input("Dígite um número:))
             raiz = sqrt(numero)
             print(f"A raiz de {numero} é igual a {raiz:.2f})
-              
+            
 => Para outra bibliotecas consultar o site: https://www.w3schools.com/python/python_modules.asp
 
+
+=> WHILE: serve para repetir uma informação de forma indeterminada; ele executa a informação enquanto ela for verdadeira;
+=> FOR: Executa a informação enquanto ela ela for verdadeira, quando ela se tornar verdadeira ela sai do bloco de execução;
