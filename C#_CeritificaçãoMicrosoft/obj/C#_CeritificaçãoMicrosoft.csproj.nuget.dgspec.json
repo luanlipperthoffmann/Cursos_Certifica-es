@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/luan/Documentos/Git/Cursos_Certificações/C#_CeritificaçãoMicrosoft/C#_CeritificaçãoMicrosoft.csproj": {}
+    "/home/luan/Documentos/Git/Cursos_Certificacoes/C#_CeritificaçãoMicrosoft/C#_CeritificaçãoMicrosoft.csproj": {}
   },
   "projects": {
-    "/home/luan/Documentos/Git/Cursos_Certificações/C#_CeritificaçãoMicrosoft/C#_CeritificaçãoMicrosoft.csproj": {
+    "/home/luan/Documentos/Git/Cursos_Certificacoes/C#_CeritificaçãoMicrosoft/C#_CeritificaçãoMicrosoft.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/luan/Documentos/Git/Cursos_Certificações/C#_CeritificaçãoMicrosoft/C#_CeritificaçãoMicrosoft.csproj",
+        "projectUniqueName": "/home/luan/Documentos/Git/Cursos_Certificacoes/C#_CeritificaçãoMicrosoft/C#_CeritificaçãoMicrosoft.csproj",
         "projectName": "C#_CeritificaçãoMicrosoft",
-        "projectPath": "/home/luan/Documentos/Git/Cursos_Certificações/C#_CeritificaçãoMicrosoft/C#_CeritificaçãoMicrosoft.csproj",
+        "projectPath": "/home/luan/Documentos/Git/Cursos_Certificacoes/C#_CeritificaçãoMicrosoft/C#_CeritificaçãoMicrosoft.csproj",
         "packagesPath": "/home/luan/.nuget/packages/",
-        "outputPath": "/home/luan/Documentos/Git/Cursos_Certificações/C#_CeritificaçãoMicrosoft/obj/",
+        "outputPath": "/home/luan/Documentos/Git/Cursos_Certificacoes/C#_CeritificaçãoMicrosoft/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/luan/.nuget/NuGet/NuGet.Config"
