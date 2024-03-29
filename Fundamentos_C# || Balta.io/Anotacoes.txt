@@ -1,1 +1,48 @@
-teste 2
+C# é uma linguagem fortemente tipada e gerenciada, e seu gerenciado é chamado de clr. Este gerenciador é reponsável por gerenciar a memoria do ssitema e evitar acesso a ddados não permitidos.
+
+C# é uma linguagem compilada;
+
+JIT => Just in Time;
+
+.NET Framework traz recursos mais comuns ja prontos para facilitar o dia-a-dia;
+    C# é a linguaguem
+    .NET é o Framework
+
+
+=> Para importar uma biblioteca no c# usamoes a palavra USING;
+=> No VAR sempre temos que iniciar ela, e a primeira palavra sempre deve ser minúscula;
+=> Nas CONST a palavra não varia ela e seu valor vai ser sempre o mesmo;
+=> TIPOS PRIMITIVOS:
+    - Eles armazenam um valor e não a referencia para um item na memória;
+
+    - Um INT vai de -2bilhoes á +2bilhões;
+
+    - Um BYTE representa 8 bit e vai de 0 até 255;
+    - Temos o SBYTE que permite números negativos de -128 até 127;
+
+    - SHORT para positivos e negativos (16bit) de -32,768 to 32,767
+    - USHORT para positivos (16bit) de 0 to 65,767
+
+    - INT para positivos e negativos (32bit) de -2,147,483,648 to 2,147,483,647
+    - UINT para positivos (32bit) de 0 to 4,294,967,295
+
+    - LONG para positivos e negativos (64bit) de -9,223,372,036,854,775,808 to 9,223,372,036,854,775,807
+    - ULONG para numeros positivos (64bit) de 0 to 18,446,744,073,709,551,615
+
+=> OBJECT:
+    - Tipo genérico que recebe qualquer valor ou objeto, serve para quando preceisop criar uma varivael na qual não sei qual tipo de dado receberá, por exemplo quando não se se a variável vair sem um int ou um float
+
+=> VOID ou NULL:
+    - VOID: retorna um método vaizio;
+    - NULL: recebe uma string ou um char vazio
+
+=> ALIAS: 
+    - é um apelido no qual diferencia maíscula de minúscula;
+
+=> CONVERSÃO IMPLÍCITA:
+    - usada pra converter um tipo em outro, nestas podem ser executadas somente para tipos compativeis
+    por exemplo de um float para um int o contrário não é valido
+    - ver tabela na pasta img...
+
+=> CONVERSÃO EXPLICITA:
+    - ocorre quando os tipos não são compatives, e dai vem o parentes antes
