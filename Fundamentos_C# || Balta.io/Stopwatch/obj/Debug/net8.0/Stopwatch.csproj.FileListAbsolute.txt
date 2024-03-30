@@ -1,0 +1,15 @@
+/home/luan/Documentos/Git/Cursos_Certificacoes/Fundamentos_C# || Balta.io/Stopwatch/obj/Debug/net8.0/Stopwatch.GeneratedMSBuildEditorConfig.editorconfig
+/home/luan/Documentos/Git/Cursos_Certificacoes/Fundamentos_C# || Balta.io/Stopwatch/obj/Debug/net8.0/Stopwatch.AssemblyInfoInputs.cache
+/home/luan/Documentos/Git/Cursos_Certificacoes/Fundamentos_C# || Balta.io/Stopwatch/obj/Debug/net8.0/Stopwatch.AssemblyInfo.cs
+/home/luan/Documentos/Git/Cursos_Certificacoes/Fundamentos_C# || Balta.io/Stopwatch/obj/Debug/net8.0/Stopwatch.csproj.CoreCompileInputs.cache
+/home/luan/Documentos/Git/Cursos_Certificacoes/Fundamentos_C# || Balta.io/Stopwatch/obj/Debug/net8.0/Stopwatch.sourcelink.json
+/home/luan/Documentos/Git/Cursos_Certificacoes/Fundamentos_C# || Balta.io/Stopwatch/bin/Debug/net8.0/Stopwatch
+/home/luan/Documentos/Git/Cursos_Certificacoes/Fundamentos_C# || Balta.io/Stopwatch/bin/Debug/net8.0/Stopwatch.deps.json
+/home/luan/Documentos/Git/Cursos_Certificacoes/Fundamentos_C# || Balta.io/Stopwatch/bin/Debug/net8.0/Stopwatch.runtimeconfig.json
+/home/luan/Documentos/Git/Cursos_Certificacoes/Fundamentos_C# || Balta.io/Stopwatch/bin/Debug/net8.0/Stopwatch.dll
+/home/luan/Documentos/Git/Cursos_Certificacoes/Fundamentos_C# || Balta.io/Stopwatch/bin/Debug/net8.0/Stopwatch.pdb
+/home/luan/Documentos/Git/Cursos_Certificacoes/Fundamentos_C# || Balta.io/Stopwatch/obj/Debug/net8.0/Stopwatch.dll
+/home/luan/Documentos/Git/Cursos_Certificacoes/Fundamentos_C# || Balta.io/Stopwatch/obj/Debug/net8.0/refint/Stopwatch.dll
+/home/luan/Documentos/Git/Cursos_Certificacoes/Fundamentos_C# || Balta.io/Stopwatch/obj/Debug/net8.0/Stopwatch.pdb
+/home/luan/Documentos/Git/Cursos_Certificacoes/Fundamentos_C# || Balta.io/Stopwatch/obj/Debug/net8.0/Stopwatch.genruntimeconfig.cache
+/home/luan/Documentos/Git/Cursos_Certificacoes/Fundamentos_C# || Balta.io/Stopwatch/obj/Debug/net8.0/ref/Stopwatch.dll
