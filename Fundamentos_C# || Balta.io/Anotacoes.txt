@@ -46,3 +46,5 @@ JIT => Just in Time;
 
 => CONVERSÃO EXPLICITA:
     - ocorre quando os tipos não são compatives, e dai vem o parentes antes
+
+=> INDEX indica a posição dentro de um texto
