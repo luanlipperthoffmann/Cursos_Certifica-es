@@ -1,0 +1,15 @@
+/home/luan/Documentos/Git/Cursos_Certificacoes/Fundamentos_C# || Balta.io/TextEditor/obj/Debug/net8.0/TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+/home/luan/Documentos/Git/Cursos_Certificacoes/Fundamentos_C# || Balta.io/TextEditor/obj/Debug/net8.0/TextEditor.AssemblyInfoInputs.cache
+/home/luan/Documentos/Git/Cursos_Certificacoes/Fundamentos_C# || Balta.io/TextEditor/obj/Debug/net8.0/TextEditor.AssemblyInfo.cs
+/home/luan/Documentos/Git/Cursos_Certificacoes/Fundamentos_C# || Balta.io/TextEditor/obj/Debug/net8.0/TextEditor.csproj.CoreCompileInputs.cache
+/home/luan/Documentos/Git/Cursos_Certificacoes/Fundamentos_C# || Balta.io/TextEditor/obj/Debug/net8.0/TextEditor.sourcelink.json
+/home/luan/Documentos/Git/Cursos_Certificacoes/Fundamentos_C# || Balta.io/TextEditor/bin/Debug/net8.0/TextEditor
+/home/luan/Documentos/Git/Cursos_Certificacoes/Fundamentos_C# || Balta.io/TextEditor/bin/Debug/net8.0/TextEditor.deps.json
+/home/luan/Documentos/Git/Cursos_Certificacoes/Fundamentos_C# || Balta.io/TextEditor/bin/Debug/net8.0/TextEditor.runtimeconfig.json
+/home/luan/Documentos/Git/Cursos_Certificacoes/Fundamentos_C# || Balta.io/TextEditor/bin/Debug/net8.0/TextEditor.dll
+/home/luan/Documentos/Git/Cursos_Certificacoes/Fundamentos_C# || Balta.io/TextEditor/bin/Debug/net8.0/TextEditor.pdb
+/home/luan/Documentos/Git/Cursos_Certificacoes/Fundamentos_C# || Balta.io/TextEditor/obj/Debug/net8.0/TextEditor.dll
+/home/luan/Documentos/Git/Cursos_Certificacoes/Fundamentos_C# || Balta.io/TextEditor/obj/Debug/net8.0/refint/TextEditor.dll
+/home/luan/Documentos/Git/Cursos_Certificacoes/Fundamentos_C# || Balta.io/TextEditor/obj/Debug/net8.0/TextEditor.pdb
+/home/luan/Documentos/Git/Cursos_Certificacoes/Fundamentos_C# || Balta.io/TextEditor/obj/Debug/net8.0/TextEditor.genruntimeconfig.cache
+/home/luan/Documentos/Git/Cursos_Certificacoes/Fundamentos_C# || Balta.io/TextEditor/obj/Debug/net8.0/ref/TextEditor.dll
