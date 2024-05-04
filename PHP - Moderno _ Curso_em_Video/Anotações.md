@@ -1,4 +1,4 @@
-# !!! ANOTAÇÕES:
+# {c: blue} ANOTAÇÕES:  {/c}
 
 
 ## __ANOTAÇÕES DO CURSO DE PHP MODERNO NO CANAL DO CUSO EM VIDEO;__
