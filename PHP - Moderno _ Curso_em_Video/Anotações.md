@@ -1,4 +1,5 @@
-# ANOTAÇÕES:
+<span style="color: green> # ANOTAÇÕES: </span>
+
 
 ## __ANOTAÇÕES DO CURSO DE PHP MODERNO NO CANAL DO CUSO EM VIDEO;__
 ### *PROF. GUSTAVO GUANABARA, POSTADO NO YOUTUBE!*
