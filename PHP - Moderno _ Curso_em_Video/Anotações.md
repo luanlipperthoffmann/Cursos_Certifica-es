@@ -15,3 +15,4 @@
 
 =>  Em 2020, laçada a Zend Engine 4.0, com o PHP 8.0. Lançador o Just-in-time Compilation (JIT), namet arguments, expressão match, operador nullsafe, enumarations, Readonly propreties (POO);
 
+=>  
