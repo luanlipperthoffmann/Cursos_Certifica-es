@@ -14,3 +14,4 @@
 =>  Em 2015, lançada a Zend Engine 3.0, com o lançamento do PHP 7.0. Lançado o Operador de null coalescing ??, declaração escalar, operador spaceship, classes anônimas, retorno void, foreign function interface;
 
 =>  Em 2020, laçada a Zend Engine 4.0, com o PHP 8.0. Lançador o Just-in-time Compilation (JIT), namet arguments, expressão match, operador nullsafe, enumarations, Readonly propreties (POO);
+
