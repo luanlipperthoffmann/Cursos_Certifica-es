@@ -15,4 +15,10 @@
 
 =>  Em 2020, laçada a Zend Engine 4.0, com o PHP 8.0. Lançador o Just-in-time Compilation (JIT), namet arguments, expressão match, operador nullsafe, enumarations, Readonly propreties (POO);
 
-=>  
+
+##### COMO O PHP FUNCIONA...
+=> CLIENT-SIDE:
+    - Cliente faz uma *request* (requisição) ao servidor de uma pagina ou informacção, o request vai atéo servidor DNS pega a informação e retorna a *response* (resposta) dos arquivos até a maquina do usuário;
+
+=> SERVER-SIDE:
+    - O Servidor recebe uma request de arquivos
